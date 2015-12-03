@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014 Baidu, Inc. All Rights Reserved.
+ * Copyright (C) 2014 lizhuyang, Inc. All Rights Reserved.
  */
 package OhMy;
 
